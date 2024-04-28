@@ -1,0 +1,15 @@
+{
+  "window.zoomLevel": 1,
+  "editor.fontSize": 14,
+  "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace",
+  "editor.wordWrap": "on",
+  "editor.lineHeight": 1.5,
+  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#065f46",
+    "statusBar.background": "#155e75",
+    "activityBar.activeBackground": "#059669",
+    "activityBar.background": "#0c4a6e"
+  }
+}
